@@ -1,0 +1,5139 @@
+img {
+    max-width: 100%;
+}
+
+.carousel-control-next {
+    height: 20px;
+    transform: translateY(452px);
+}
+
+.carousel-control-prev {
+    height: 20px;
+    transform: translateY(452px);
+}
+
+.banner2 {
+    background-image: url(./assest/banner4-bg.jpg);
+    padding-bottom: 70px;
+    background-repeat: no-repeat;
+
+    .navbar {
+        padding-block: 35px 33px;
+
+        .container-fluid {
+            margin-inline: 100px 95px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-collapse {
+
+
+
+                .navbar-nav {
+                    gap: 42px;
+
+                    .nav-item {
+                        .nav-link {
+                            color: var(--White, #FFF);
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 140%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .banner-content {
+        padding-top: 83px;
+
+        .banner-heading {
+            h1 {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                padding-right: 282px;
+                margin: 0;
+            }
+
+            p {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+                margin: 0;
+                padding-top: 28px;
+                padding-right: 255px;
+                margin: 0;
+            }
+
+        }
+
+        .banner-button {
+            button {
+                margin-top: 50px;
+                border: none;
+                border-radius: 10px;
+                background: #51BA6B;
+
+                a {
+                    display: inline-flex;
+                    padding: 14px 21px;
+                    align-items: center;
+                    gap: 79px;
+                    color: var(--Black, #091113);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: non;
+                }
+            }
+
+            .banner-img {
+                text-align: center;
+            }
+        }
+
+        .banner-text {
+            h1 {
+                color: #51BA6B;
+                font-family: 'Manrope', sans-serif;
+                font-size: 206px;
+                font-style: normal;
+                font-weight: 200;
+                line-height: 120%;
+                margin: 0;
+                letter-spacing: -13.39px;
+
+                span {
+                    color: #51BA6B;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 47px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    letter-spacing: -3.055px;
+                    margin: 0;
+                }
+            }
+
+            p {
+                color: #FFF;
+                font-family: 'Manrope', sans-serif;
+                font-size: 41px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 120%;
+                margin: 0;
+            }
+        }
+    }
+}
+
+.banner3 {
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8),
+            rgba(0, 0, 0, 0.8)),
+        url(./assest/banner3-bg.png);
+    padding-bottom: 70px;
+    background-repeat: no-repeat;
+
+    .navbar {
+        padding-block: 35px 33px;
+
+        .container-fluid {
+            margin-inline: 100px 95px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-collapse {
+
+
+
+                .navbar-nav {
+                    gap: 42px;
+
+                    .nav-item {
+                        .nav-link {
+                            color: var(--White, #FFF);
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 140%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .banner-content {
+        padding-top: 83px;
+
+        .banner-heading {
+            h1 {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                padding-right: 282px;
+                margin: 0;
+            }
+
+            p {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+                margin: 0;
+                padding-top: 28px;
+                padding-right: 255px;
+                margin: 0;
+            }
+
+        }
+
+        .banner-button {
+            button {
+                margin-top: 50px;
+                border: none;
+                border-radius: 10px;
+                background: #51BA6B;
+
+                a {
+                    display: inline-flex;
+                    padding: 14px 21px;
+                    align-items: center;
+                    gap: 79px;
+                    color: var(--Black, #091113);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: none;
+                }
+            }
+
+            .banner-img {
+                text-align: center;
+            }
+        }
+
+        .banner-text {
+            h1 {
+                color: #51BA6B;
+                font-family: 'Manrope', sans-serif;
+                font-size: 206px;
+                font-style: normal;
+                font-weight: 200;
+                line-height: 120%;
+                margin: 0;
+                letter-spacing: -13.39px;
+
+                span {
+                    color: #51BA6B;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 47px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    letter-spacing: -3.055px;
+                    margin: 0;
+                }
+            }
+
+            p {
+                color: #FFF;
+                font-family: 'Manrope', sans-serif;
+                font-size: 41px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 120%;
+                margin: 0;
+            }
+        }
+    }
+}
+
+.banner {
+
+    padding-bottom: 70px;
+    background-repeat: no-repeat;
+
+
+    .navbar {
+        padding-block: 35px 33px;
+
+        .container-fluid {
+            margin-inline: 100px 95px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-collapse {
+
+
+
+                .navbar-nav {
+                    gap: 42px;
+
+                    .nav-item {
+                        .nav-link {
+                            color: var(--White, #FFF);
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 140%;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .banner-content {
+        padding-top: 83px;
+
+        .banner-heading {
+            h1 {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                padding-right: 282px;
+                margin: 0;
+            }
+
+            p {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+                margin: 0;
+                padding-top: 28px;
+                padding-right: 255px;
+                margin: 0;
+            }
+
+        }
+
+        .banner-button {
+            button {
+                margin-top: 50px;
+                border: none;
+                border-radius: 10px;
+                background: #51BA6B;
+
+                a {
+                    display: inline-flex;
+                    padding: 14px 21px;
+                    align-items: center;
+                    gap: 79px;
+                    color: var(--Black, #091113);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: none;
+                }
+            }
+
+            .banner-img {
+                text-align: center;
+            }
+        }
+
+        .banner-text {
+            h1 {
+                color: #51BA6B;
+                font-family: 'Manrope', sans-serif;
+                font-size: 206px;
+                font-style: normal;
+                font-weight: 200;
+                line-height: 120%;
+                margin: 0;
+                letter-spacing: -13.39px;
+
+                span {
+                    color: #51BA6B;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 47px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    letter-spacing: -3.055px;
+                    margin: 0;
+                }
+            }
+
+            p {
+                color: #FFF;
+                font-family: 'Manrope', sans-serif;
+                font-size: 41px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 120%;
+                margin: 0;
+            }
+        }
+    }
+}
+
+
+.ceo-chats {
+    .cChat-heading {
+        h1 {
+            color: var(--Black, #091113);
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin-inline: 294px;
+            margin-top: 141px;
+            margin-bottom: 0;
+        }
+    }
+
+    .cChat-img {
+        text-align: center;
+        padding-top: 45px;
+    }
+
+    .cChat-text {
+        p {
+            color: #858585;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            margin-inline: 450px;
+            margin-top: 45px;
+            margin-bottom: 99px;
+        }
+    }
+
+    .cChat-line {
+        width: 796px;
+        background: #CBCBCB;
+        height: 1px;
+        margin: auto;
+    }
+}
+
+.podcasts {
+    padding-top: 94px;
+
+    .podcast {
+        display: flex;
+        gap: 26px;
+        align-items: center;
+        padding-top: 45px;
+
+        .podcast-content {
+            .podcast-heading {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 35px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                    padding-right: 133px;
+                }
+            }
+        }
+    }
+
+    .podcast-card {
+        border-radius: 20px;
+        border: 1px solid #CBCBCB;
+        padding: 30px 26px 48px 32px;
+
+
+        .podcast-body {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 12px;
+
+            input {
+                color: var(--Black, #091113);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                width: 100%;
+                padding-block: 30px;
+                padding-left: 20px;
+                position: relative;
+                border: 1px solid #CBCBCB;
+                border-inline: none;
+            }
+
+            button {
+                border: none;
+                padding: 14px 19px;
+                border-radius: 10px;
+                background: #51BA6B;
+                position: absolute;
+                right: 120px;
+
+                a {
+                    color: #091113;
+                    text-align: center;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+}
+
+.lvgas {
+    background: #F9F7F4;
+    margin-inline: 40px;
+    margin-top: 141px;
+
+    .lvgas_img {
+        padding-top: 20px;
+    }
+
+    .lvgas_content {
+        padding-top: 140px;
+        padding-left: 125px;
+        padding-right: 31px;
+
+        h1 {
+            color: var(--Black, #091113);
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin: 0;
+        }
+
+        p {
+            color: #858585;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            margin: 0;
+            padding-top: 26px;
+            padding-right: 20px;
+        }
+
+        button {
+
+            padding: 14px 21px;
+            margin-top: 79px;
+            border-radius: 10px;
+            background: #51BA6B;
+
+            a {
+                text-decoration: none;
+                color: var(--Black, #091113);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+
+                span {
+                    padding-left: 79px;
+                }
+            }
+        }
+    }
+}
+
+.platform {
+    padding-top: 140px;
+
+    .platform-heading {
+        span {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+        }
+
+        h1 {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin: 0;
+            padding-top: 43px;
+        }
+
+        p {
+            color: var(--Black, #091113);
+            font-family: 'Manrope', sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130%;
+            margin: 0;
+            padding-top: 26px;
+        }
+
+        button {
+            border-radius: 10px;
+            background: #51BA6B;
+            padding: 14px 21px;
+            margin-top: 79px;
+
+            a {
+                color: var(--Black, #091113);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+            }
+
+            span {
+                padding-left: 79px;
+            }
+
+        }
+    }
+
+    .deeppower-cards {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 50px;
+        padding-left: 106px;
+        align-items: baseline;
+
+        .deeppower-card {
+            .dc-body {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                    margin: 0;
+                    padding-top: 39px;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    padding-top: 10px;
+                    margin: 0;
+                }
+            }
+        }
+    }
+}
+
+
+.Revolution {
+    background: #091113;
+    margin-top: 140px;
+
+    .Revolution-heading {
+        padding-top: 140px;
+
+        h1 {
+            color: var(--White, #FFF);
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            padding-right: 115px;
+        }
+
+        p {
+            color: #B5B5B5;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            padding-left: 120px;
+        }
+    }
+
+    .rock-energy {
+        .rock-energy-heading {
+            h1 {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 120%;
+                padding-top: 124px;
+            }
+        }
+
+        .rock-energy-value {
+            padding-top: 31px;
+
+            .rev-line {
+                width: 621px;
+                height: 1px;
+                background: #1B2E33;
+            }
+
+            .rev-heading {
+                display: flex;
+                gap: 15px;
+                align-items: baseline;
+                padding-bottom: 15px;
+
+                h1 {
+                    color: #B5B5B5;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                }
+            }
+        }
+
+        .rev-button {
+            text-align: center;
+            padding-top: 79px;
+            padding-bottom: 140px;
+
+            button {
+                border-radius: 10px;
+                background: #51BA6B;
+                padding: 14px 21px;
+
+                a {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: none;
+                }
+
+                span {
+                    padding-left: 79px;
+                }
+            }
+        }
+    }
+}
+
+
+.Superhot {
+    padding-top: 140px;
+
+    .Superhot-heading {
+        h1 {
+            color: #091113;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin-inline: 275px;
+        }
+    }
+
+    .Superhot_img {
+        text-align: center;
+        padding-top: 90px;
+    }
+
+    .Superhot-content {
+        margin-inline: 275px;
+        margin-block: 70px 79px;
+
+        P {
+            color: var(--Grey, #858585);
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+        }
+    }
+
+    .Superhot-button {
+        text-align: center;
+
+        button {
+            padding: 14px 21px;
+            border-radius: 10px;
+            background: #51BA6B;
+            margin-bottom: 140px;
+
+            a {
+                text-decoration: none;
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+
+            }
+
+            span {
+                padding-left: 79px;
+            }
+        }
+    }
+}
+
+
+.Technologies {
+
+
+    .container {
+        .Technologies_card {
+            position: relative;
+            padding-top: 300px;
+
+            .TechnologiesC_body {
+                margin-top: 140px;
+                position: absolute;
+                top: -135px;
+                padding: 115px 89px 124px 88px;
+                border-radius: 20px;
+                border: 1px solid #CBCBCB;
+                background: #FFF;
+                left: 173px;
+
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                    margin: 0;
+                    padding-bottom: 26px;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0%;
+                }
+            }
+        }
+
+        .Geothermal {
+            padding-left: 100px;
+
+
+            .Geothermal-content {
+                padding-top: 93px;
+
+                h1 {
+                    color: var(--Black, #091113);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 35px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    margin: 0;
+                    padding-bottom: 26px;
+                }
+
+                p {
+                    color: var(--Grey, hsl(0, 0%, 52%));
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                    padding-bottom: 79px;
+                }
+
+                button {
+                    padding: 14px 21px;
+                    border-radius: 10px;
+                    background: #51BA6B;
+                    margin-bottom: 140px;
+
+                    a {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 140%;
+                        text-decoration: none;
+                    }
+
+                    span {
+                        padding-left: 79px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+.Benefits {
+    margin-top: 120px;
+    background-color: #F9F7F4;
+    padding-top: 137px;
+    padding-bottom: 140px;
+    margin-inline: 40px;
+
+    .Benefits-heading {
+        span {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+        }
+
+        h1 {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin: 0;
+            padding-top: 43px;
+        }
+
+        p {
+            color: var(--Black, #091113);
+            font-family: 'Manrope', sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 130%;
+            margin: 0;
+            padding-top: 26px;
+        }
+
+        button {
+
+            border-radius: 10px;
+            background: #51BA6B;
+            padding: 14px 21px;
+            margin-top: 79px;
+
+            a {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+                text-decoration: none;
+            }
+
+            span {
+                padding-left: 79px;
+            }
+        }
+    }
+
+    .Benefits-cards {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 50px;
+        padding-left: 106px;
+        align-items: center;
+
+        .Benefits-card {
+            .bc-body {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                    margin: 0;
+                    padding-top: 39px;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    padding-top: 10px;
+                    margin: 0;
+                }
+            }
+        }
+    }
+}
+
+
+
+.earthshot-rock {
+    padding-top: 300px;
+    position: relative;
+
+    .earthshot-img {
+        text-align: center;
+    }
+
+    .earthshot-content {
+        background-color: #fff;
+        position: absolute;
+        top: 242px;
+        margin-inline: 130px;
+        padding: 42px 195px 110px 195px;
+
+        h1 {
+            color: #091113;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+        }
+
+        p {
+            color: #858585;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            padding-inline: 110px;
+        }
+
+        .earthshot-button {
+            text-align: center;
+
+            button {
+                border-radius: 10px;
+                background: #51BA6B;
+                padding: 14px 21px;
+                margin-top: 79px;
+
+                a {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: none;
+
+                    span {
+                        padding-left: 79px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+.global-decarbonization {
+    .decarbonization-content {
+        padding-top: 129px;
+        padding-right: 233px;
+
+        h1 {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin: 0;
+        }
+
+        p {
+            color: #858585;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            padding-top: 26px;
+            margin: 0;
+        }
+
+        button {
+            border-radius: 10px;
+            background: #51BA6B;
+            padding: 14px 21px;
+            margin-top: 79px;
+
+            a {
+                color: #091113;
+                text-decoration: none;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+
+                span {
+                    padding-left: 79px;
+                }
+            }
+        }
+    }
+
+    .decarbonization-cards {
+        padding-top: 90px;
+        position: relative;
+
+        .decarbonization-card {
+            padding: 119px 98px 120px 89px;
+            background-color: #fff;
+            position: absolute;
+            top: 172px;
+            border-radius: 20px;
+            border: 1px solid #CBCBCB;
+
+            left: 108px
+        }
+
+        .decC-body {
+            h1 {
+                h1 {
+                    color: var(--Black, #091113);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                }
+
+            }
+        }
+    }
+}
+
+.latest-news {
+    padding-bottom: 140px;
+
+    padding-top: 350px;
+
+    .latest-heading {
+        h1 {
+            color: var(--Black, #091113);
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+        }
+    }
+
+    .news {
+        padding-top: 75px;
+        padding-right: 75px;
+
+        h1 {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 120%;
+            margin: 0;
+        }
+
+        p {
+            color: #858585;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            margin: 0;
+            padding-top: 10px;
+        }
+    }
+
+    .news-button {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        padding-top: 32px;
+
+        p {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+        }
+
+        a {
+            text-decoration: none;
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 140%;
+            text-transform: uppercase;
+            border-bottom: 2px solid #51BA6B;
+            margin: 0;
+
+        }
+
+    }
+
+    .latest-news-button {
+        button {
+            border-radius: 10px;
+            background: #51BA6B;
+            margin-top: 77px;
+
+            padding: 14px 21px;
+
+            a {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+                text-decoration: none;
+
+                span {
+                    padding-left: 79px;
+                }
+            }
+        }
+    }
+}
+
+
+.footer {
+    background: #091113;
+    padding-bottom: 48px;
+
+    .footer-heading {
+        h1 {
+            color: #FFF;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            padding-top: 119px;
+        }
+    }
+
+    .footer-card {
+        border-radius: 20px;
+        border: 1px solid #CBCBCB;
+        padding: 30px 26px 48px 32px;
+        margin-inline: 300px;
+        margin-top: 49px;
+
+
+
+        .footer-body {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-top: 12px;
+
+            input {
+                color: var(--White, #FFF);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                background: #091113;
+                width: 65%;
+                border: 1px solid #CBCBCB;
+                border-inline: none;
+                padding-block: 30px;
+            }
+
+            button {
+                border: none;
+                padding: 14px 19px;
+                border-radius: 10px;
+                background: #51BA6B;
+
+                a {
+
+                    color: #091113;
+                    text-align: center;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+
+    .footer-logo {
+        text-align: center;
+        padding-top: 108px;
+    }
+
+    .footer-links {
+        padding-top: 47px;
+        display: flex;
+        gap: 89px;
+        flex-direction: row;
+        justify-content: center;
+
+        .footer-link {
+            a {
+                text-decoration: none;
+                color: #FFF;
+                font-family: 'Manrope', sans-serif;
+                font-size: 13px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+            }
+        }
+    }
+
+    .copyright {
+        p {
+            padding-top: 128px;
+            color: #94AEB5;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            margin: 0;
+        }
+    }
+}
+
+
+
+
+
+@media(max-width:1400px) {
+    .banner .navbar .container-fluid .navbar-brand {
+        padding-right: 0;
+    }
+
+    .banner3 .navbar .container-fluid .navbar-brand {
+        padding-right: 0;
+    }
+
+    .banner2 .navbar .container-fluid .navbar-brand {
+        padding-right: 0;
+    }
+
+    .banner3 .navbar .container-fluid .navbar-collapse .navbar-nav {
+        gap: 20px;
+    }
+
+    .banner2 .navbar .container-fluid .navbar-collapse .navbar-nav {
+        gap: 20px;
+    }
+
+    .banner .navbar .container-fluid .navbar-collapse .navbar-nav {
+        gap: 20px;
+    }
+
+    .banner2 .navbar .container-fluid {
+        margin-inline: 50px;
+    }
+
+    .banner3 .navbar .container-fluid {
+        margin-inline: 50px;
+    }
+
+    .banner .navbar .container-fluid {
+        margin-inline: 50px;
+    }
+
+    .banner-img img {
+        width: 80%;
+    }
+
+    .banner .banner-content .banner-heading h1 {
+        padding-right: 0;
+    }
+
+    .banner2 .banner-content .banner-heading h1 {
+        padding-right: 0;
+    }
+
+    .banner3 .banner-content .banner-heading h1 {
+        padding-right: 0;
+    }
+
+    .carousel-control-next {
+        width: 55px;
+    }
+
+    .carousel-control-prev {
+        width: 55px;
+    }
+
+    .banner-img {
+        text-align: end;
+    }
+
+    .banner .banner-content .banner-heading p {
+        padding-right: 100px;
+    }
+
+    .banner2 .banner-content .banner-heading p {
+        padding-right: 100px;
+    }
+
+    .banner3 .banner-content .banner-heading p {
+        padding-right: 100px;
+    }
+
+    .banner3 .banner-content {
+        padding-top: 200px;
+    }
+
+    .banner2 .banner-content {
+        padding-top: 200px;
+    }
+
+    .banner .banner-content {
+        padding-top: 200px;
+    }
+
+    .banner2 .banner-content .banner-text {
+        h1 {
+            font-size: 150px;
+
+            span {
+                padding-left: 10px;
+            }
+        }
+
+        p {
+            font-size: 35px;
+        }
+    }
+
+    .banner .banner-content .banner-text {
+        h1 {
+            font-size: 150px;
+
+            span {
+                padding-left: 10px;
+            }
+        }
+
+        p {
+            font-size: 35px;
+        }
+    }
+
+    .banner3 .banner-content .banner-text {
+        h1 {
+            font-size: 150px;
+
+            span {
+                padding-left: 10px;
+            }
+        }
+
+        p {
+            font-size: 35px;
+        }
+    }
+
+    .ceo-chats .cChat-heading h1 {
+        margin-inline: 150px;
+    }
+
+    .cChat-img img {
+        width: 80%;
+    }
+
+    .ceo-chats .cChat-text p {
+        margin-inline: 300px;
+    }
+
+    .podcasts .podcast-card .pc-line {
+        width: 484px;
+    }
+
+    .lvgas .lvgas_content {
+        padding-top: 100px
+    }
+
+    .lvgas {
+        padding-bottom: 50px;
+    }
+
+    .platform-heading {
+        padding-left: 30px;
+    }
+
+    .platform .deeppower-cards .deeppower-card .dc-body p {
+        font-size: 13px;
+    }
+
+    .platform .deeppower-cards .deeppower-card .dc-body h1 {
+        font-size: 16px;
+    }
+
+    .Revolution .rock-energy .rock-energy-value .rev-line {
+        width: 532px;
+    }
+
+    .Superhot .Superhot-heading h1 {
+        margin-inline: 200px;
+    }
+
+    .Superhot .Superhot-content {
+        margin-inline: 200px;
+    }
+
+    .Technologies .container .Technologies_card .TechnologiesC_body {
+        top: -52px;
+        padding: 62px 30px 81px 45px
+    }
+
+    .Technologies .container .Geothermal .Geothermal-content {
+        padding-top: 197px;
+    }
+
+    .Technologies .container .Geothermal .Geothermal-content h1 {
+        font-size: 33px;
+    }
+
+    .earthshot-rock .earthshot-content {
+        padding: 42px 72px 110px;
+        top: 193px;
+    }
+
+    .global-decarbonization .decarbonization-cards .decarbonization-card {
+        padding: 58px 19px 45px 41px
+    }
+
+    .global-decarbonization .decarbonization-content {
+        padding-right: 158px;
+    }
+
+    .decC-body {
+        h1 {
+            font-size: 25px;
+        }
+    }
+
+    .latest-news .news {
+        padding-right: 34px;
+    }
+
+
+}
+
+@media(max-width:1200px) {
+    .banner .banner-content {
+        padding-top: 50px;
+    }
+
+    .banner2 .banner-content {
+        padding-top: 50px;
+    }
+
+    .banner3 .banner-content {
+        padding-top: 50px;
+    }
+
+    .ceo-chats .cChat-heading h1 {
+        font-size: 25px;
+    }
+
+    .podcasts .podcast .podcast-content .podcast-heading h1 {
+        font-size: 27px;
+    }
+
+    .podcasts .podcast-card .pc-line {
+        width: 388px;
+    }
+
+    .lvgas .lvgas_content {
+        padding-left: 50px;
+    }
+
+    .lvgas .lvgas_content h1 {
+        font-size: 30px;
+    }
+
+    .platform .deeppower-cards {
+        padding-left: 90px;
+    }
+
+    .platform .platform-heading h1 {
+        padding-top: 20px;
+    }
+
+    .platform .platform-heading p {
+        font-size: 16px;
+    }
+
+    .platform .deeppower-cards .deeppower-card .dc-body p {
+        font-size: 11px;
+    }
+
+    .Revolution .Revolution-heading h1 {
+        font-size: 32px;
+    }
+
+    .Revolution .Revolution-heading p {
+        font-size: 12px;
+    }
+
+    .Revolution .rock-energy .rock-energy-value .rev-line {
+        width: 406px;
+    }
+
+    .Technologies .container .Geothermal {
+        padding-left: 50px;
+    }
+
+    .Technologies .container .Geothermal .Geothermal-content h1 {
+        font-size: 31px;
+    }
+
+    .Technologies .container .Geothermal .Geothermal-content p {
+        font-size: 14px;
+    }
+
+    .earthshot-rock .earthshot-content {
+        padding: 28px 55px 32px;
+        top: 145px;
+    }
+
+    .global-decarbonization .decarbonization-content {
+        padding-right: 100px;
+    }
+
+    .global-decarbonization .decarbonization-content h1 {
+        font-size: 33px;
+    }
+}
+
+
+@media(max-width:992px) {
+    .banner {
+        background-size: cover;
+    }
+
+    .banner2 {
+        background-size: cover;
+    }
+
+    .ceo-chats .cChat-heading h1 {
+        margin-inline: 10px;
+    }
+
+    .ceo-chats .cChat-text p {
+        margin-inline: 10px;
+    }
+
+    .ceo-chats .cChat-line {
+        width: 480px;
+    }
+
+    .podcasts .podcast-card {
+        margin-top: 100px;
+    }
+
+    .podcasts .podcast-card .pc-line {
+        width: 446px;
+    }
+
+    .lvgas_img {
+        text-align: center;
+
+        img {
+            width: 80%;
+        }
+    }
+
+    .platform .deeppower-cards {
+        padding-left: 10px;
+        padding-top: 84px;
+    }
+
+    .Revolution .Revolution-heading p {
+        padding-left: 0;
+        font-size: 10px;
+    }
+
+    .Revolution .Revolution-heading h1 {
+        padding-right: 0;
+    }
+
+    .Revolution .rock-energy .rock-energy-value {
+        padding-top: 72px;
+    }
+
+    .Superhot .Superhot-heading h1 {
+        margin-inline: 0;
+        font-size: 24px;
+    }
+
+    .Superhot .Superhot-content {
+        margin-inline: 0;
+    }
+
+    .Technologies .container .Geothermal {
+        padding-left: 0;
+    }
+
+    .Benefits {
+        margin-inline: 20px;
+    }
+
+    .Benefits .Benefits-cards {
+        padding-left: 0;
+        padding-top: 70px;
+    }
+
+    .earthshot-rock .earthshot-content {
+        display: none;
+    }
+
+    .footer .footer-card {
+        margin-inline: 0;
+    }
+
+    .footer .footer-links {
+        gap: 25px;
+    }
+}
+
+@media(max-width:576px) {
+    .banner3 {
+        .navbar .container-fluid {
+            margin-inline: 0;
+        }
+
+        .banner-content {
+            .banner-heading {
+                h1 {
+                    font-size: 27px;
+                }
+
+                p {
+                    padding-right: 0;
+                }
+            }
+
+            .banner-button {
+                button {
+                    gap: 20px;
+                }
+            }
+
+
+            .banner-text {
+                h1 {
+                    letter-spacing: normal;
+                    font-size: 35px;
+
+                    span {
+                        font-size: 25px;
+                    }
+                }
+
+                p {
+                    font-size: 20px;
+                }
+
+            }
+        }
+    }
+
+    .banner2 {
+        .navbar .container-fluid {
+            margin-inline: 0;
+        }
+
+        .banner-content {
+            .banner-heading {
+                h1 {
+                    font-size: 27px;
+                }
+
+                p {
+                    padding-right: 0;
+                }
+            }
+
+            .banner-button {
+                button {
+                    gap: 20px;
+                }
+            }
+
+
+            .banner-text {
+                h1 {
+                    letter-spacing: normal;
+                    font-size: 35px;
+
+                    span {
+                        font-size: 25px;
+                    }
+                }
+
+                p {
+                    font-size: 20px;
+                }
+
+            }
+        }
+    }
+
+    .banner {
+        .navbar .container-fluid {
+            margin-inline: 0;
+        }
+
+        .banner-content {
+            .banner-heading {
+                h1 {
+                    font-size: 27px;
+                }
+
+                p {
+                    padding-right: 0;
+                }
+            }
+
+            .banner-button {
+                button {
+                    gap: 20px;
+                }
+            }
+
+
+            .banner-text {
+                h1 {
+                    letter-spacing: normal;
+                    font-size: 35px;
+
+                    span {
+                        font-size: 25px;
+                    }
+                }
+
+                p {
+                    font-size: 20px;
+                }
+
+            }
+        }
+    }
+
+    .navbar-light .navbar-toggler {
+        background-color: #fff;
+    }
+
+    .ceo-chats .cChat-line {
+        width: 263px;
+    }
+
+    .podcasts .podcast .podcast-content .podcast-heading p {
+        padding-right: 0;
+    }
+
+    .podcasts .podcast-card {
+        padding-block: 30px;
+    }
+
+    .podcasts .podcast-card .pc-line {
+        width: 225px;
+    }
+
+    .podcasts .podcast-card .podcast-body p {
+        padding: 7px 12px
+    }
+
+    .lvgas {
+        margin-inline: 10px;
+    }
+
+    .lvgas .lvgas_content {
+        padding-left: 0;
+    }
+
+    .Revolution .rock-energy .rock-energy-value .rev-line {
+        width: 200px;
+    }
+
+    .Technologies .container .Technologies_card .TechnologiesC_body {
+        position: initial;
+    }
+
+    .global-decarbonization .decarbonization-content {
+        padding-right: 10px;
+    }
+
+    .global-decarbonization .decarbonization-cards .decarbonization-card {
+        position: initial;
+        margin-top: 70px;
+    }
+
+
+
+    .footer .footer-links {
+        gap: 10px;
+    }
+
+    .footer .footer-links .footer-link a {
+        font-size: 8px;
+    }
+}
+
+
+
+
+#market {
+
+    .market-navbar {
+        .navbar-brand {
+            padding-right: 40px;
+        }
+
+        .navbar {
+            padding-inline: 90px;
+            padding-block: 31px 29px;
+
+            .navbar-nav {
+                gap: 42px;
+            }
+        }
+    }
+
+    .market-heading {
+        position: relative;
+        text-align: center;
+
+        h1 {
+            color: var(--Black, #091113);
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 18px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 120%;
+            padding-top: 64px;
+            margin: 0;
+        }
+
+        img {
+            padding-top: 44px;
+        }
+
+        h2 {
+            position: absolute;
+            top: 98px;
+            left: 28%;
+            background: #51BA6B;
+            color: #091113;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 50px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: 100%;
+            margin: 0;
+        }
+
+        .market-card {
+            max-width: 686px;
+            position: absolute;
+            background-color: #fff;
+            padding: 112px 83px 75px 129px;
+            top: 417px;
+            left: 56rem;
+
+            p {
+                color: var(--Grey, #858585);
+                font-family: 'Manrope', sans-serif;
+                text-align: start;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+            }
+        }
+    }
+
+    .imgs {
+        padding-top: 30px;
+
+        .img2 {
+            padding-top: 352px;
+            text-align: end;
+        }
+    }
+
+    .banner-content {
+        p {
+            margin-inline: 544px;
+            color: var(--Grey, #858585);
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            padding-top: 92px;
+            margin-bottom: 122px;
+        }
+    }
+
+    .clean-energy {
+        background: #F9F7F4;
+        margin-inline: 40px;
+
+        .energy-heading {
+            padding-top: 153px;
+
+            h1 {
+                color: var(--Black, #091113);
+                font-family: 'Manrope', sans-serif;
+                margin: 0;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                padding-right: 165px;
+            }
+
+            p {
+                padding-left: 165px;
+                color: var(--Grey, #858585);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+            }
+        }
+
+        .energy-img {
+            text-align: center;
+            padding-top: 144px;
+
+        }
+
+        .energy-content {
+            p {
+                margin-inline: 392px;
+                color: var(--Grey, #858585);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                padding-top: 148px;
+            }
+        }
+
+        .cost-of-energy {
+            text-align: center;
+            padding-top: 147px;
+            padding-bottom: 143px;
+        }
+    }
+
+
+
+
+    .little-land {
+
+        .llC-content {
+            h1 {
+                color: var(--Black, #091113);
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 120%;
+                padding-bottom: 32px;
+                margin: 0;
+            }
+        }
+
+        .little-land-imgs {
+            position: relative;
+            padding-top: 355px;
+
+            .little-land-card {
+                border-radius: 20px;
+                border: 1px solid #CBCBCB;
+                background: #FFF;
+                position: absolute;
+                top: 76px;
+                left: 12rem;
+                padding: 55px 89px 80px 24px;
+
+            }
+        }
+
+        .land_content {
+            padding-left: 128px;
+            padding-top: 185px;
+
+            h1 {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                padding-bottom: 26px;
+                padding-right: 189px;
+            }
+
+            p {
+                color: #858585;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                padding-right: 80px;
+                margin: 0;
+            }
+        }
+    }
+
+
+
+    .Distant-future {
+        padding-bottom: 56px;
+
+        .distant-content {
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin-inline: 298px;
+                padding-top: 120px;
+                padding-bottom: 16px;
+                margin-bottom: 0;
+            }
+        }
+    }
+
+}
+
+@media(max-width:1400px) {
+    #market .market-navbar .navbar .navbar-nav {
+        gap: 20px;
+    }
+
+    #market .market-navbar .navbar {
+        padding-inline: 30px
+    }
+
+    #market .market-navbar .navbar-brand {
+        padding-right: 10px;
+    }
+
+    #market .market-heading h2 {
+        left: 21%;
+    }
+
+    #market .market-heading .market-card {
+        left: 31rem;
+        padding: 57px 48px 48px 61px;
+        margin-left: 94px;
+        top: 505px;
+    }
+
+    #market .banner-content p {
+        margin-inline: 300px;
+    }
+
+    .rnergy-img img {
+        width: 80%;
+    }
+
+    #market .clean-energy {
+        margin-inline: 10px;
+    }
+
+    #market .clean-energy .energy-heading p {
+        padding-left: 50px;
+    }
+
+    #market .clean-energy .energy-heading {
+        padding-top: 80px;
+    }
+
+    #market .clean-energy .energy-content p {
+        margin-inline: 200px
+    }
+
+    #market .little-land .little-land-imgs .little-land-card {
+        padding: 44px 20px 41px 24px;
+        top: 133px;
+    }
+
+}
+
+@media(max-width:1200px) {
+    #market .market-navbar .navbar {
+        padding-inline: 20px;
+    }
+
+    #market .market-heading .market-card {
+        margin-left: -8px;
+        top: 366px;
+    }
+
+    #market .market-heading h2 {
+        left: 24%;
+        font-size: 40px;
+    }
+
+    #market .little-land .land_content {
+        padding-left: 50px;
+    }
+
+    #market .little-land .land_content h1 {
+        padding-right: 155px;
+    }
+
+    #market .Distant-future .distant-content h1 {
+        margin-inline: 100px;
+        padding-top: 226px
+    }
+}
+
+@media(max-width:992px) {
+    #market .market-heading .market-card {
+        position: initial;
+    }
+
+    #market .market-navbar .navbar .navbar-nav {
+        gap: 42px;
+    }
+
+    #market .market-heading h1 {
+        padding-top: 0;
+    }
+
+    #market .market-heading h2 {
+        left: 29%;
+        font-size: 30px;
+        top: 43px;
+    }
+
+    #market .banner-content p {
+        margin-inline: 20px;
+    }
+
+    #market .imgs .img2 {
+        padding-top: 100px;
+        text-align: center;
+    }
+
+    #market .clean-energy .energy-heading p {
+        padding-left: 0;
+    }
+
+    #market .clean-energy .energy-heading h1 {
+        padding-right: 0;
+    }
+
+    #market .clean-energy .energy-content p {
+        margin-inline: 30px;
+        padding-top: 80px;
+    }
+
+    #market .little-land .little-land-imgs .little-land-card {
+        top: 194px;
+    }
+
+    #market .little-land .land_content {
+        padding-left: 0;
+        padding-top: 80px;
+    }
+
+    #market .Distant-future .distant-content h1 {
+        margin-inline: 30px
+    }
+}
+
+@media(max-width:576px) {
+    #market .market-navbar .navbar {
+        padding-inline: 5px;
+    }
+
+    #market .market-heading h2 {
+        left: 15%;
+        font-size: 15px;
+        top: 52px;
+    }
+
+    #market .market-heading .market-card {
+        padding: 57px 25px 48px 25px;
+    }
+
+    #market .little-land .little-land-imgs .little-land-card {
+        position: initial;
+        margin-top: 30px;
+    }
+
+    #market .little-land .land_content h1 {
+        padding-right: 10px;
+    }
+
+    #market .little-land .land_content p {
+        padding-right: 10px;
+    }
+
+    #market .Distant-future .distant-content h1 {
+        margin-inline: 10px;
+        font-size: 13px;
+    }
+}
+
+
+
+
+
+
+
+
+
+#tecnology {
+    .navbar {
+        padding-block: 23px 21px;
+
+        .container-fluid {
+            padding-inline: 90px;
+
+            .navbar-nav {
+                gap: 48px;
+
+                .nav-item {
+                    .nav-link {
+                        color: var(--Black, #091113);
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+
+    .banner {
+        position: relative;
+
+        .banner-heading {
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 120%;
+                padding-block: 64px 51px;
+            }
+        }
+
+        .banner-img {
+            text-align: center;
+        }
+
+        .banner-img-heading {
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                position: absolute;
+                background: #51BA6B;
+                top: 106px;
+                left: 29rem
+            }
+        }
+
+        .banner-card {
+            max-width: 686px;
+            top: 429px;
+            left: 48rem;
+            position: absolute;
+            padding: 116px 50px 8px 124px;
+            background: #FFF;
+        }
+    }
+
+    .Geothermal-card {
+        padding: 70px 97px 71px 96px;
+        border-radius: 20px;
+        border: 1px solid #CBCBCB;
+        margin-inline: 361px;
+        margin-top: 70px;
+
+        p {
+            margin: 0;
+            color: #091113;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+        }
+
+        h6 {
+            color: #858585;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            margin: 0;
+            text-align: center;
+            padding-top: 30px;
+        }
+    }
+
+    .oil-gas-drilling {
+        .ogd-content {
+            padding-top: 153px;
+
+            h1 {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                padding-bottom: 26px;
+            }
+
+            p {
+                color: #858585;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+                padding-right: 177px;
+            }
+        }
+
+        .ogd-img {
+            img {
+                padding-top: 30px;
+            }
+        }
+    }
+
+    .deeppower-platform {
+        background: #091113;
+        padding-top: 89px;
+        margin-inline: 40px;
+
+        .platform-heading {
+            h1 {
+                color: #F9F7F4;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 37px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                padding-bottom: 26px;
+            }
+
+            p {
+                color: #F9F7F4;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 20px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+                margin: 0;
+            }
+        }
+
+        .cards {
+            padding-top: 100px;
+
+            .card {
+                background: #51BA6B;
+                width: 383px;
+                height: 100%;
+
+                .card-body {
+                    position: relative;
+
+                    .card-heading {
+                        h1 {
+                            padding-top: 10px;
+                            color: var(--Tan, #F9F7F4);
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 20px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 120%;
+                            margin: 0;
+                        }
+
+                        p {
+                            padding-top: 10px;
+                            color: #000;
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 15px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 140%;
+                            margin: 0;
+                        }
+
+                        h5 {
+                            color: #F0F8FA;
+                            font-family: 'Manrope', sans-serif;
+                            margin: 0;
+                            font-size: 60px;
+                            font-style: normal;
+                            font-weight: 300;
+                            line-height: 100%;
+                            padding-top: 28px;
+
+
+
+                        }
+
+                        h6 {
+                            color: #fff;
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 15px;
+                            font-style: normal;
+                            font-weight: 600;
+                            line-height: 140%;
+                            padding-top: 3px;
+                        }
+                    }
+
+                    .card-button {
+                        position: absolute;
+                        bottom: 49px;
+                        left: 15rem;
+
+                        button {
+                            padding: 14px 19px;
+                            border-radius: 9px;
+                            background: #091113;
+
+                            a {
+                                color: #FFF;
+                                text-align: center;
+                                font-family: 'Manrope', sans-serif;
+                                font-size: 15px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 140%;
+                                text-decoration: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        .targets {
+            padding-top: 169px;
+
+            .target-img {
+                img {
+                    width: 100%;
+                    position: relative;
+                }
+            }
+
+            .target {
+                padding: 120px 129px 25px 129px;
+                background: #091113;
+                margin-inline: 320px;
+                position: absolute;
+                top: 198rem;
+                left: 5rem;
+
+                .target-heading {
+                    h1 {
+                        color: #B5B5B5;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 17px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                        margin: 0;
+                        padding-bottom: 4px;
+
+                    }
+
+                    h2 {
+                        color: #B5B5B5;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 17px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                        margin: 0;
+                        padding-bottom: 12px;
+                        padding-top: 31px;
+
+                        span {
+                            padding-right: 8px;
+                        }
+                    }
+                }
+
+                .target-line {
+                    width: 621px;
+                    height: 2px;
+                    background: #1B2E33;
+                }
+            }
+        }
+
+        .researcher {
+            padding-top: 280px;
+
+            .researcher-content {
+                p {
+                    color: #B5B5B5;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    padding-left: 128px;
+                    margin: 0;
+                    padding-bottom: 89px;
+                }
+            }
+
+            .researcher-logo {
+                text-align: center;
+            }
+        }
+    }
+
+    .Enhanced {
+        .Enhanced-content {
+            padding-top: 195px;
+            padding-right: 146px;
+
+            h1 {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+            }
+
+            p {
+                color: var(--Grey, #858585);
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+                padding-top: 26px;
+            }
+        }
+
+        .Enhanced-img {
+            padding-top: 102px;
+        }
+
+        .Enhanced-cards {
+            padding-top: 96px;
+
+            h1 {
+                color: #858585;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 13px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+                padding-block: 26px 140px;
+            }
+        }
+    }
+}
+
+@media(max-width:1400px) {
+    #tecnology .navbar .container-fluid {
+        padding-inline: 30px;
+    }
+
+    #tecnology .banner-img img {
+        width: 100%;
+    }
+
+    #tecnology .banner .banner-img-heading h1 {
+        font-size: 38px;
+        left: 21rem;
+        top: 73px;
+    }
+
+    #tecnology .navbar .container-fluid .navbar-nav {
+        gap: 25px;
+    }
+
+    #tecnology .banner .banner-card {
+        left: 32rem;
+    }
+
+    #tecnology .banner .banner-heading h1 {
+        padding-block: 40px 33px;
+    }
+
+    #tecnology .Geothermal-card {
+        margin-inline: 183px;
+        margin-top: 119px;
+    }
+
+    #tecnology .deeppower-platform {
+        margin-top: 100px;
+    }
+
+    #tecnology .deeppower-platform .cards .card {
+        width: 350px;
+    }
+
+    #tecnology .deeppower-platform .cards .card .card-body .card-button {
+        left: 13rem;
+    }
+
+    #tecnology .deeppower-platform .targets .target {
+        padding: 60px 83px 19px 110px;
+        margin-inline: 100px;
+        left: 7rem;
+    }
+
+    #tecnology .deeppower-platform .researcher .researcher-content p {
+        padding-left: 40px;
+    }
+
+    #tecnology .researcher-logo img {
+        width: 60%;
+    }
+}
+
+@media(max-width:1200px) {
+    #tecnology .banner .banner-heading h1 {
+        padding-block: 22px 23px;
+    }
+
+    #tecnology .banner .banner-img-heading h1 {
+        font-size: 33px;
+        left: 17rem;
+        top: 54px;
+    }
+
+    #tecnology .banner .banner-card {
+        padding: 56px 10px 8px 40px;
+        top: 337px;
+    }
+
+    #tecnology .Geothermal-card {
+        margin-inline: 80px;
+        margin-top: 138px;
+    }
+
+    #tecnology .oil-gas-drilling .ogd-content p {
+        padding-right: 10px;
+    }
+
+    #tecnology .oil-gas-drilling .ogd-img img {
+        padding-top: 75px;
+    }
+
+    #tecnology .deeppower-platform {
+        margin-inline: 10px;
+    }
+
+    #tecnology .deeppower-platform .cards .card {
+        width: 304px;
+    }
+
+    #tecnology .deeppower-platform .cards .card .card-body .card-button {
+        left: 11rem;
+        bottom: 78px;
+    }
+
+    #tecnology .Enhanced .Enhanced-content {
+        padding-top: 125px;
+        padding-right: 30px;
+    }
+
+    #tecnology .Enhanced-img {
+        text-align: center;
+
+        img {
+            width: 80%;
+        }
+    }
+}
+
+
+
+@media(max-width:992px) {
+    #tecnology .banner .banner-img-heading h1 {
+        font-size: 21px;
+        left: 9rem;
+        top: 58px;
+        line-height: 126%;
+    }
+
+    #tecnology .banner .banner-card {
+        margin-top: 30px;
+        position: initial;
+    }
+
+    #tecnology .Geothermal-card {
+        margin-inline: 22px;
+        padding: 36px 27px 36px 20px;
+        margin-top: 50px;
+    }
+
+    #tecnology .Geothermal-card p {
+        font-size: 19px;
+    }
+
+    #tecnology .oil-gas-drilling .ogd-content {
+        padding-top: 200px;
+    }
+
+    #tecnology .oil-gas-drilling .ogd-img img {
+        padding-top: 0;
+    }
+
+    #tecnology .deeppower-platform .targets {
+        display: none;
+    }
+
+    #tecnology .deeppower-platform .cards .card {
+        width: 388px;
+        margin-top: 50px;
+        height: 90%;
+    }
+
+    #tecnology .Enhanced-img img {
+        margin-top: 40px;
+    }
+}
+
+@media(max-width:576px) {
+    #tecnology .banner .banner-img-heading h1 {
+        font-size: 10px;
+        left: 5rem;
+        top: 61px;
+        line-height: 126%;
+    }
+
+    #tecnology .banner .banner-card {
+        margin-top: 0;
+        padding: 10px;
+    }
+
+    .platform-heading {
+        padding-left: 0;
+    }
+
+    #tecnology .deeppower-platform {
+        margin-inline: 0;
+    }
+
+    #tecnology .deeppower-platform .cards .card {
+        width: 270px;
+    }
+
+    #tecnology .deeppower-platform .cards .card .card-body .card-heading p {
+        font-size: 13px;
+    }
+
+    #tecnology .deeppower-platform .cards .card .card-body .card-heading h5 {
+        font-size: 38px;
+    }
+
+    #tecnology .deeppower-platform .cards .card .card-body .card-heading h6 {
+        font-size: 11px;
+    }
+
+    #tecnology .deeppower-platform .cards .card .card-body .card-button {
+        left: 8rem;
+        bottom: 38px;
+    }
+
+    #tecnology .Enhanced-card {
+        margin-top: 30px;
+    }
+}
+
+
+
+
+#podcast {
+    .navbar {
+        padding-block: 23px 21px;
+
+        .container-fluid {
+            padding-inline: 90px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-nav {
+                gap: 38px;
+
+                .nav-item {
+                    .nav-link {
+                        color: var(--Black, #091113);
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+
+    .main-heading-content {
+        padding-top: 89px;
+
+        h1 {
+            color: #091113;
+            font-family: 'Manrope', sans-serif;
+            font-size: 50px;
+            font-style: normal;
+            font-weight: 300;
+            line-height: 100%;
+            margin: 0;
+        }
+
+        p {
+            color: var(--Grey, #858585);
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            margin: 0;
+            padding-top: 26px;
+            padding-right: 300px;
+        }
+    }
+
+    .main-heading-card {
+        margin-top: 93px;
+        border-radius: 20px;
+        border: 1px solid #CBCBCB;
+        padding: 30px 26px 48px 32px;
+
+        .mhc-line {
+            width: 572px;
+            height: 1px;
+            background: #CBCBCB;
+        }
+
+        .mhc-text {
+
+
+            .mhc-heading {
+                position: relative;
+
+                input {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    padding-block: 30px;
+                    width: 80%;
+                    border: 1px solid #CBCBCB;
+                    border-inline: none;
+
+                }
+            }
+
+            .mhc-button {
+                button {
+                    position: absolute;
+                    padding: 14px 19px;
+                    border-radius: 10px;
+                    background: #51BA6B;
+                    margin-block: 12px;
+                    top: 210px;
+                    right: 110px;
+
+                    a {
+                        color: #091113;
+                        text-align: center;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 140%;
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+
+
+    .podcastses {
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+        padding-bottom: 140px;
+
+        .podcast {
+            display: block;
+            text-align: center;
+
+            .card-body {
+                padding: 0;
+                padding-left: 48px;
+                padding-right: 40px;
+
+                h1 {
+                    color: #091113;
+                    text-align: start;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                    padding-top: 42px;
+                    margin: 0;
+                }
+
+                .card-text {
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: baseline;
+                    padding-top: 30px;
+
+                    .date {
+                        p {
+                            color: #091113;
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 500;
+                            line-height: 140%;
+                        }
+                    }
+
+                    .button {
+                        button {
+                            border: none;
+                            background-color: #fff;
+                            border-bottom: 2px solid #51BA6B;
+
+                            a {
+                                color: #091113;
+                                font-family: 'Manrope', sans-serif;
+                                font-size: 13px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 140%;
+                                text-transform: uppercase;
+                                text-decoration: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+@media(max-width:1400px) {
+    #podcast .navbar .container-fluid {
+        padding-inline: 20px;
+    }
+
+    #podcast .main-heading-card .mhc-line {
+        width: 488px;
+    }
+
+    #podcast .podcastses .podcast .card-body {
+        padding-left: 0;
+    }
+}
+
+
+@media(max-width:1200px) {
+    #podcast .navbar .container-fluid .navbar-brand {
+        padding-right: 0;
+    }
+
+    #podcast .navbar .container-fluid .navbar-nav {
+        gap: 12px;
+    }
+
+    #podcast .main-heading-card .mhc-line {
+        width: 398px;
+    }
+
+    #podcast .main-heading-content p {
+        padding-right: 219px;
+    }
+}
+
+
+@media(max-width:992px) {
+    #podcast .podcastses {
+        grid-template-columns: auto;
+    }
+}
+
+
+
+@media(max-width:576px) {
+    #podcast .main-heading-content p {
+        padding-right: 0px;
+    }
+
+    #podcast .main-heading-content {
+        padding-top: 50px;
+    }
+
+    #podcast .main-heading-card .mhc-line {
+        width: 216px;
+    }
+
+    #podcast .main-heading-card .mhc-text .mhc-button button {
+        top: 378px;
+        right: 62px;
+    }
+}
+
+@media(max-width:576px) {
+    #podcast .main-heading-card .mhc-text .mhc-button button {
+        top: 394px;
+        right: 16px;
+    }
+}
+
+
+
+
+
+
+#about-us {
+    .banner {
+        position: relative;
+        background: #091113;
+        padding-bottom: 158px;
+
+        .navbar {
+            padding-inline: 80px;
+            padding-block: 31px 29px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-nav {
+                gap: 42px;
+
+                .nav-item {
+                    .nav-link {
+                        color: #FFF;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+
+        .banner-heading {
+            h1 {
+                color: #F9F7F4;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 120%;
+                margin: 0;
+                padding-block: 64px 40px;
+            }
+        }
+
+        .banner-img {
+            text-align: center;
+        }
+
+        .banner-content {
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                background: #51BA6B;
+                position: absolute;
+                top: 193px;
+                left: 22rem
+            }
+        }
+
+        .banner-card {
+
+
+            p {
+                position: absolute;
+                color: #B5B5B5;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                padding: 100px 106px 128px 106px;
+                font-weight: 500;
+                line-height: 140%;
+                background: #091113;
+                top: 35rem;
+                right: 54rem;
+            }
+        }
+    }
+
+    .teams {
+        padding-top: 140px;
+        padding-inline: 316px;
+        padding-bottom: 140px;
+
+        .teams-heading {
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+            }
+        }
+
+        .team {
+            padding-top: 84px;
+            display: flex;
+            gap: 131px;
+            padding-bottom: 42px;
+            border-bottom: 1px solid #CBCBCB;
+            ;
+
+            .team-img {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 11px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                    margin: 0;
+                }
+
+                p {
+                    color: var(--Grey, #858585);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 9px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 115%;
+                }
+            }
+
+            .team-conent {
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                }
+
+                ul {
+                    li {
+                        color: #858585;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+@media(max-width:1400px) {
+    #about-us .banner .navbar {
+        padding-inline: 0;
+    }
+
+    #about-us .banner .banner-content h1 {
+        font-size: 28px;
+        top: 135px;
+    }
+
+    #about-us .banner .banner-heading h1 {
+        padding-top: 0;
+    }
+
+    #about-us .banner .banner-card p {
+        top: 26rem;
+        right: 26rem;
+        padding: 45px 64px 75px 65px;
+    }
+
+    #about-us .banner {
+        padding-bottom: 75px;
+    }
+
+    #about-us .teams {
+        padding-inline: 129px;
+    }
+}
+
+@media(max-width:1200px) {
+    #about-us .banner .navbar .navbar-brand {
+        padding-right: 0;
+    }
+
+    #about-us .banner .navbar .navbar-nav {
+        gap: 12px;
+    }
+
+    #about-us .banner .banner-content h1 {
+        font-size: 21px;
+        top: 135px;
+        left: 19rem;
+    }
+
+    #about-us .banner {
+        padding-bottom: 238px;
+    }
+}
+
+@media(max-width:992px) {
+    #about-us .banner .banner-content h1 {
+        font-size: 14px;
+        top: 135px;
+        left: 10rem;
+    }
+
+    #about-us .banner .banner-card p {
+        top: 20rem;
+        right: 9rem;
+        padding: 19px 33px 42px 32px;
+    }
+
+    #about-us .banner {
+        padding-bottom: 323px;
+    }
+
+    #about-us .teams .team {
+        gap: 40px;
+    }
+
+    #about-us .teams {
+        padding-inline: 15px;
+    }
+
+    #about-us .navbar-light .navbar-toggler {
+        background-color: #fff;
+        border-color: #fff;
+
+        span {
+            background-color: #fff;
+        }
+    }
+}
+
+@media(max-width:576px) {
+    #about-us .banner .banner-content h1 {
+        font-size: 9px;
+        top: 146px;
+        left: 4rem;
+    }
+
+    #about-us .banner .banner-card p {
+        position: initial;
+        padding-inline: 0;
+    }
+
+    #about-us .banner {
+        padding-bottom: 50px;
+    }
+
+    #about-us .teams .team {
+        gap: 10px;
+    }
+
+}
+
+
+
+#Contact-us {
+    .navbar {
+        padding-inline: 95px;
+        padding-block: 31px 29px;
+
+        .navbar-brand {
+            margin-right: 48px;
+        }
+
+        .navbar-nav {
+            gap: 48px;
+
+            .nav-item {
+                .nav-link {
+                    color: var(--Black, #091113);
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 13px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                }
+            }
+        }
+    }
+
+    .contact-us-banner {
+        padding-top: 64px;
+
+        .contact-heading {
+            h1 {
+                color: var(--Black, #091113);
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+            }
+
+            p {
+                color: #858585;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+                padding-top: 10px;
+            }
+        }
+
+        .contact-card {
+            border-radius: 20px;
+            border: 1px solid #CBCBCB;
+            margin-inline: 300px;
+            padding-top: 9px;
+            padding-left: 29px;
+            padding-bottom: 42px;
+            margin-top: 64px;
+            margin-bottom: 95px;
+
+            .name {
+                margin-top: 57px;
+                border-bottom: 1px solid #CBCBCB;
+                padding-bottom: 20px;
+                margin-right: 20px;
+
+                input {
+                    border: none;
+                    width: 100%;
+
+                }
+            }
+
+            .email {
+                margin-top: 48px;
+                padding-bottom: 20px;
+                border-bottom: 1px solid #CBCBCB;
+                margin-right: 20px;
+
+                input {
+                    border: none;
+                    width: 100%;
+                }
+            }
+
+            .massege {
+                margin-top: 48px;
+                padding-bottom: 20px;
+                border-bottom: 1px solid #CBCBCB;
+                margin-right: 20px;
+
+                textarea {
+                    width: 100%;
+                    border: none;
+                }
+            }
+        }
+    }
+}
+
+@media(max-width:1200px) {
+    #Contact-us .navbar {
+        padding-inline: 10px;
+    }
+
+    #Contact-us .navbar .navbar-brand {
+        margin-right: 0px;
+    }
+
+    #Contact-us .contact-us-banner .contact-card {
+        margin-inline: 100px;
+    }
+
+    #Contact-us .footer .footer-card {
+        margin-inline: 200px;
+    }
+}
+
+@media(max-width:992px) {
+    #Contact-us .contact-us-banner {
+        padding-top: 10px;
+    }
+
+    #Contact-us .contact-us-banner .contact-heading h1 {
+        font-size: 30px;
+    }
+
+    #Contact-us .contact-us-banner .contact-card {
+        margin-inline: 17px;
+    }
+
+    #Contact-us .footer .footer-card {
+        margin-inline: 50px;
+    }
+
+    #Contact-us .footer .footer-card {
+        margin-inline: 10px;
+    }
+
+    #Contact-us .footer .footer-card {
+        padding: 17px 12px 24px 11px;
+    }
+}
+
+
+#investor {
+    background: #091113;
+
+    .navbar {
+        padding-inline: 95px;
+        padding-block: 31px 29px;
+
+        .navbar-brand {
+            padding-right: 48px;
+        }
+
+        .navbar-nav {
+            gap: 48px;
+
+            .nav-item {
+                .nav-link {
+                    color: #fff;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 13px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                }
+            }
+        }
+    }
+
+    .investor-heading {
+        h1 {
+            color: var(--Tan, #F9F7F4);
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 35px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 120%;
+            margin: 0;
+            padding-inline: 275px;
+            padding-top: 64px;
+        }
+
+        p {
+            color: #B5B5B5;
+            text-align: center;
+            font-family: 'Manrope', sans-serif;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 140%;
+            padding-inline: 298px;
+            margin: 0;
+            padding-top: 26px;
+        }
+    }
+
+    .investor-img {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+}
+
+
+@media(max-width:1400px) {
+    #investor .navbar {
+        padding-inline: 20px;
+    }
+
+    #investor .navbar .navbar-nav {
+        gap: 40px;
+    }
+
+    #investor .investor-heading h1 {
+        padding-inline: 215px;
+    }
+
+    #investor .investor-heading p {
+        padding-inline: 230px;
+    }
+}
+
+@media(max-width:992px) {
+    #investor .investor-heading h1 {
+        padding-inline: 19px;
+    }
+
+    #investor .investor-heading p {
+        padding-inline: 10px;
+    }
+}
+
+@media(max-width:576px) {
+    #investor .navbar .navbar-brand {
+        padding-right: 0px;
+    }
+
+    #investor .investor-heading h1 {
+        font-size: 17px;
+    }
+}
+
+
+
+#new {
+    .header {
+        .navbar {
+            padding-inline: 80px;
+            padding-block: 31px 29px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-nav {
+                gap: 42px;
+
+                .nav-item {
+                    .nav-link {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+
+    .banner {
+        .banner-heading {
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                margin: 0;
+                padding-top: 89px;
+                padding-bottom: 85px;
+            }
+        }
+
+        .news {
+            padding-bottom: 108px;
+        }
+
+        .new {
+            padding-top: 64px;
+            padding-left: 92px;
+
+            .new-heading {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                    margin: 0;
+                    padding-bottom: 10px;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                }
+
+                h6 {
+                    color: #000;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: 140%;
+                }
+
+                span {
+                    a {
+                        color: #52DA30;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 600;
+                        text-decoration: none;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+
+        .new-content {
+            p {
+                color: #101010;
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 140%;
+                padding: 18px 32px 19px 22px;
+                margin: 0;
+                border-radius: 12px;
+                background: #51BA6B;
+                width: fit-content;
+                margin-left: 92px;
+                margin-top: 60px;
+            }
+        }
+    }
+
+    .about-deeppower {
+        padding-left: 175px;
+        padding-right: 97px;
+
+        .About {
+            h1 {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                border-bottom: 2px solid #CBCBCB;
+                padding-bottom: 22px;
+            }
+
+            p {
+                color: #858585;
+                font-family: 'Manrope', sans-serif;
+                font-size: 17px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 120%;
+                padding-top: 29px;
+                margin: 0;
+            }
+        }
+
+
+        .statement {
+            padding-top: 60px;
+
+            h1 {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 25px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                border-bottom: 2px solid #CBCBCB;
+                padding-bottom: 22px;
+            }
+
+            p {
+                color: #858585;
+                font-family: 'Manrope', sans-serif;
+                font-size: 17px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 120%;
+                padding-top: 29px;
+                margin: 0;
+            }
+        }
+
+        button {
+            border-radius: 12px;
+            background: #51BA6B;
+            border: none;
+            margin-top: 40px;
+            margin-bottom: 61px;
+            padding: 5px 45px 6px 25px;
+
+            a {
+                color: #000;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 140%;
+                text-decoration: none;
+
+                span {
+                    color: #000;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 140%;
+                }
+            }
+        }
+    }
+}
+
+
+@media(max-width:1400px) {
+    #new .header .navbar {
+        padding-inline: 12px;
+        padding-block: 27px 10px;
+    }
+
+    #new .banner .banner-heading h1 {
+        font-size: 37px;
+        margin-inline: 90px;
+    }
+
+    #new .banner .new {
+        padding-left: 20px;
+    }
+
+    #new .banner .news {
+        padding-bottom: 87px;
+    }
+
+    #new .banner .new-content p {
+        margin-left: 0;
+    }
+
+    #new .about-deeppower {
+        padding-left: 40px;
+    }
+}
+
+
+@media(max-width:1200px) {
+    #new .header .navbar .navbar-brand {
+        padding-right: 0px;
+    }
+
+    #new .header .navbar .navbar-nav {
+        gap: 24px;
+    }
+
+    #new .banner .news {
+        padding-bottom: 109px;
+    }
+
+    #new .footer .footer-card {
+        margin-inline: 214px;
+    }
+}
+
+
+
+@media(max-width:992px) {
+    #new .banner .banner-heading h1 {
+        margin-inline: 0;
+    }
+
+    #new .footer .footer-card {
+        margin-inline: 80px;
+    }
+
+
+
+    #new .footer .footer-card .footer-body button {
+        margin-bottom: 10px;
+    }
+
+}
+
+
+@media(max-width:576px) {
+    #new .banner .banner-heading h1 {
+        font-size: 18px;
+    }
+
+    #new .banner .new {
+        padding-left: 5px;
+    }
+
+    #new .about-deeppower {
+        padding: 0;
+    }
+
+    #new .footer .footer-card {
+        padding-block: 30px;
+        margin-inline: 0;
+    }
+
+
+}
+
+
+
+
+
+
+#news-landing {
+    header {
+        .navbar {
+            padding-inline: 80px;
+            padding-block: 31px 29px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-nav {
+                gap: 42px;
+
+                .nav-item {
+                    .nav-link {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+
+    .landing-news {
+        padding-top: 89px;
+
+        .landing-heading {
+            h1 {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                margin: 0;
+            }
+        }
+
+        .company-header {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 113px;
+            border-bottom: 1px solid #CBCBCB;
+            padding-bottom: 22px;
+            margin-right: 130px;
+
+            .company-heading {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 25px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    margin: 0;
+                }
+            }
+
+            .heading-button {
+                button {
+                    border: none;
+                    background-color: #FFF;
+
+                    a {
+                        color: #091113;
+                        text-align: right;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 140%;
+
+                        text-decoration: none;
+
+                        span {
+                            padding-left: 12px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .company-newses {
+            padding-top: 92px;
+            padding-right: 134px;
+
+            .company-news {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    margin: 0;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                    padding-top: 10px;
+                }
+            }
+
+            .news-date {
+                display: flex;
+                justify-content: space-between;
+                padding-top: 30px;
+
+                .date {
+                    p {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                        margin: 0;
+                    }
+                }
+
+                .news-button {
+                    button {
+                        border: none;
+                        background-color: #fff;
+                        margin-right: 20px;
+
+                        a {
+                            text-decoration: none;
+                            color: #091113;
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 140%;
+                            text-transform: uppercase;
+                            border-bottom: 2px solid #51BA6B;
+                        }
+                    }
+                }
+            }
+
+        }
+
+        .industry-header {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 137px;
+            border-bottom: 1px solid #CBCBCB;
+            padding-bottom: 22px;
+            margin-right: 130px;
+
+            .industry-heading {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 25px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    margin: 0;
+                }
+            }
+
+            .heading-button {
+                button {
+                    border: none;
+                    background-color: #FFF;
+
+                    a {
+                        color: #091113;
+                        text-align: right;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 140%;
+
+                        text-decoration: none;
+
+                        span {
+                            padding-left: 12px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .industry-newses {
+            padding-top: 92px;
+            padding-right: 134px;
+
+            .industry-news {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    margin: 0;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 120%;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                    padding-top: 10px;
+                }
+            }
+
+            .news-date {
+                display: flex;
+                justify-content: space-between;
+                padding-top: 30px;
+
+                .date {
+                    p {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                        margin: 0;
+                    }
+                }
+
+                .news-button {
+                    button {
+                        border: none;
+                        background-color: #fff;
+                        margin-right: 20px;
+
+                        a {
+                            text-decoration: none;
+                            color: #091113;
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 140%;
+                            text-transform: uppercase;
+                            border-bottom: 2px solid #51BA6B;
+                        }
+                    }
+                }
+            }
+
+        }
+
+        .landing-button {
+            button {
+                border-radius: 10px;
+                background: #51BA6B;
+                padding: 14px 21px;
+                border: none;
+                margin-top: 160px;
+                margin-bottom: 170px;
+
+                a {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 700;
+                    text-decoration: none;
+                    line-height: 140%;
+                }
+
+                span {
+                    padding-left: 79px;
+                }
+            }
+        }
+    }
+
+    .footer {
+
+
+        .footer-card {
+            .footer-body {
+                button {
+                    margin-bottom: 10px;
+                }
+            }
+        }
+    }
+}
+
+@media(max-width:1400px) {
+    #news-landing header .navbar {
+        padding-inline: 14px;
+        padding-block: 31px 8px;
+    }
+
+    #news-landing header .navbar .navbar-brand {
+        padding-right: 0px;
+    }
+
+    #news-landing header .navbar .navbar-nav {
+        gap: 20px;
+    }
+
+    #news-landing .landing-news .company-newses {
+        padding-right: 30px;
+    }
+
+    #news-landing .landing-news .company-header {
+        margin-right: 37px;
+        padding-top: 50px;
+    }
+
+    #news-landing .landing-news .industry-newses {
+        padding-right: 30px;
+    }
+
+    #news-landing .landing-news .industry-header {
+        margin-right: 37px;
+        padding-top: 50px;
+    }
+
+    #news-landing .footer .footer-card {
+        margin-inline: 210px;
+    }
+}
+
+
+
+@media(max-width:1200px) {
+    #news-landing .footer .footer-card {
+        margin-inline: 120px;
+    }
+}
+
+@media(max-width:992px) {
+    #news-landing .footer .footer-card {
+        margin-inline: 53px;
+    }
+
+
+}
+
+@media(max-width:576px) {
+    #news-landing .landing-news .landing-heading h1 {
+        font-size: 35px;
+    }
+
+    #news-landing .landing-news .company-header {
+        margin-right: 0;
+    }
+
+    #news-landing .landing-news .company-newses {
+        padding-right: 0;
+    }
+
+    #news-landing .footer .footer-card {
+        margin-inline: 10px;
+    }
+
+
+}
+
+
+
+
+
+#news-category {
+    header {
+        .navbar {
+            padding-inline: 80px;
+            padding-block: 31px 29px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-nav {
+                gap: 42px;
+
+                .nav-item {
+                    .nav-link {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+
+    .category-news {
+        .category-header {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 89px;
+            align-items: center;
+
+            .category-heading {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 50px;
+                    font-style: normal;
+                    font-weight: 300;
+                    line-height: 100%;
+                }
+            }
+
+            .category-button {
+                .news-button {
+                    border: none;
+                    background-color: #fff;
+
+                    a {
+                        color: #091113;
+                        text-align: right;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 140%;
+                        text-decoration: none;
+                    }
+
+                    span {
+                        padding-left: 20px;
+                    }
+                }
+
+                .company-button {
+                    border: none;
+                    background-color: #fff;
+
+                    a {
+                        color: #858585;
+                        text-align: right;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+
+        .category {
+            padding-right: 72px;
+            padding-top: 89px;
+
+            .category-news {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 700;
+                    margin: 0;
+                    line-height: 120%;
+                    padding-bottom: 10px;
+                }
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                }
+            }
+
+            .category-footer {
+                display: flex;
+                justify-content: space-between;
+                padding-top: 32px;
+
+                .category-date {
+                    h1 {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                        margin: 0;
+                        padding-top: 11px;
+                    }
+                }
+
+                .category-button {
+                    button {
+                        border: none;
+                        background-color: #fff;
+
+                        a {
+                            color: #091113;
+                            font-family: 'Manrope', sans-serif;
+                            font-size: 13px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 140%;
+                            margin: 0;
+                            text-decoration: none;
+                            text-transform: uppercase;
+                            border-bottom: 2px solid #51BA6B;
+                            padding-bottom: 5px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .footer {
+        .footer-card {
+
+
+            .footer-body {
+                button {
+                    margin-bottom: 10px;
+                }
+            }
+        }
+    }
+}
+
+.category-newses {
+    padding-top: 36px;
+    padding-bottom: 140px;
+}
+
+
+
+@media(max-width:1400px) {
+    #news-category header .navbar {
+        padding-inline: 17px;
+    }
+
+    #news-category .category-news .category {
+        padding-right: 51px;
+    }
+
+    #news-category .footer .footer-card {
+        margin-inline: 200px;
+    }
+}
+
+@media(max-width:1200px) {
+    #news-category header .navbar .navbar-brand {
+        padding-right: 0px;
+    }
+
+    #news-category header .navbar .navbar-nav {
+        gap: 21px;
+    }
+
+    #news-category header .navbar .navbar-nav {
+        gap: 21px;
+    }
+
+    #news-category .category-news .category-header .category-button .company-button a {
+        font-size: 10px;
+    }
+
+    #news-category .category-news .category-header .category-button .news-button span {
+        padding-left: 9px;
+    }
+
+    #news-category .category-news .category-header .category-heading h1 {
+        font-size: 35px;
+    }
+
+    #news-category .footer .footer-card {
+        margin-inline: 10px;
+    }
+}
+
+@media(max-width:576px) {
+    #news-category .category-news .category-header .category-heading h1 {
+        font-size: 17px;
+    }
+
+    #news-category .category-news .category {
+        padding-right: 0px;
+    }
+}
+
+
+
+#drilling-tecnology {
+    header {
+        .navbar {
+            padding-inline: 80px;
+            padding-block: 31px 29px;
+
+            .navbar-brand {
+                padding-right: 48px;
+            }
+
+            .navbar-nav {
+                gap: 42px;
+
+                .nav-item {
+                    .nav-link {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 13px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 140%;
+                    }
+                }
+            }
+        }
+    }
+
+    .banner {
+        .banner-heading {
+            padding-top: 64px;
+
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 700;
+                line-height: 120%;
+                margin: 0;
+            }
+        }
+
+        .banner-img {
+            position: relative;
+            text-align: center;
+            padding-top: 80px;
+        }
+
+        .banner-text {
+            position: absolute;
+            top: 13rem;
+            left: 27rem;
+            right: 26rem;
+
+            h1 {
+                margin: 0;
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                background: #51BA6B;
+            }
+        }
+
+        .banner-card {
+            background-color: #fff;
+            margin-inline: 450px;
+            position: absolute;
+            top: 37rem;
+            right: 1px;
+
+            .card-body {
+                padding: 112px 26px 28px 26px;
+
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                }
+            }
+
+            .card-img {
+                img {
+                    padding: 0px 20px 38px 22px;
+                }
+            }
+        }
+    }
+
+    .patent-pending {
+        padding-top: 593px;
+
+        .pending-content {
+            text-align: center;
+
+            h1 {
+                color: #091113;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                padding-bottom: 71px;
+                padding-top: 71px;
+            }
+
+            p {
+                padding-top: 71px;
+                color: #858585;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 130%;
+                margin: 0;
+                padding-inline: 397px;
+            }
+
+        }
+    }
+
+    .university-of-oklahoma {
+        padding-top: 127px;
+
+        .university-content {
+            p {
+                color: #858585;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+                padding-left: 39px;
+                padding-right: 114px;
+                padding-bottom: 67px;
+            }
+        }
+
+        .unversity-cards {
+            .unversity-card {
+                margin-top: 28px;
+                background: #51BA6B;
+                padding: 30px 61px 33px 56px;
+                display: flex;
+                align-items: center;
+                gap: 30px;
+
+                .card-heading {
+                    h1 {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 75px;
+                        font-style: normal;
+                        font-weight: 300;
+                        line-height: 100%;
+                        margin: 0;
+                    }
+                }
+
+                .card-text {
+                    p {
+                        color: #091113;
+                        font-family: 'Manrope', sans-serif;
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 120%;
+                        margin: 0;
+                    }
+                }
+            }
+        }
+    }
+
+    .deeppower-cheaper {
+        .cheaper-img {
+            padding-top: 164px;
+            position: relative;
+        }
+
+        .cheaper-img-card {
+            position: absolute;
+            bottom: -134rem;
+            border-radius: 20px;
+            border: 1px solid #CBCBCB;
+            background: #FFF;
+            padding: 52px 86px 53px 86px;
+            left: 27rem;
+
+            h1 {
+                color: #51BA6B;
+                font-family: 'Manrope', sans-serif;
+                font-size: 50px;
+                font-style: normal;
+                font-weight: 300;
+                line-height: 100%;
+                margin: 0;
+            }
+        }
+
+        .cheaper-content {
+            p {
+                color: #858585;
+                font-family: 'Manrope', sans-serif;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: 140%;
+                margin: 0;
+                padding-top: 160px;
+                padding-left: 187px;
+            }
+        }
+    }
+
+    .patent-pending-img {
+        text-align: center;
+        padding-top: 50px;
+    }
+
+    .deep-miles {
+        margin-top: 72px;
+        background: #F9F7F4;
+        margin-inline: 40px;
+
+        .deep-miles-heading {
+            display: flex;
+            justify-content: space-between;
+            padding-top: 96px;
+
+            .dmh-heading {
+                h1 {
+                    color: #091113;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 35px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 120%;
+                    margin: 0;
+                }
+            }
+
+            .dmh-content {
+                p {
+                    color: #858585;
+                    font-family: 'Manrope', sans-serif;
+                    font-size: 15px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    margin: 0;
+                    padding-left: 596px;
+                }
+            }
+        }
+
+        .deep-miles-img {
+            text-align: center;
+            padding-top: 162px;
+            padding-bottom: 138px;
+        }
+    }
+
+    .clean-energy {
+        position: relative;
+
+        .clean-energy-imgs {
+
+            .first-img {
+                padding-top: 200px;
+                padding-left: 30px;
+            }
+
+            .second-img {
+                padding-top: 100px;
+                text-align: center;
+            }
+
+            .third-img {
+                padding-top: 250px;
+                text-align: center;
+            }
+        }
+
+        .clean-energy-content {
+            position: absolute;
+            bottom: 17px;
+            left: 312px;
+
+            h1 {
+                color: #51BA6B;
+                text-align: center;
+                font-family: 'Manrope', sans-serif;
+                font-size: 169.735px;
+                font-style: normal;
+                font-weight: 200;
+                line-height: 100%;
+                margin: 0;
+            }
+
+            p {
+                color: #091113;
+                font-family: 'Manrope', sans-serif;
+                font-size: 35px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 120%;
+                margin: 0;
+                text-align: center;
+
+            }
+        }
+    }
+
+    .footer {
+        margin-top: 140px;
+    }
+}
+
+@media(max-width:1400px) {
+    #drilling-tecnology header .navbar {
+        padding-inline: 20px;
+    }
+
+    #drilling-tecnology header .navbar .navbar-brand {
+        padding-right: 11px;
+    }
+
+    #drilling-tecnology header .navbar .navbar-nav {
+        gap: 16px;
+    }
+
+    #drilling-tecnology .banner .banner-heading {
+        padding-top: 20px;
+    }
+
+    #drilling-tecnology .banner .banner-img {
+        padding-top: 40px;
+    }
+
+    #drilling-tecnology .banner .banner-text {
+        position: absolute;
+        top: 10rem;
+        left: 17rem;
+        right: 18rem;
+    }
+
+    #drilling-tecnology .banner .banner-text h1 {
+        font-size: 43px;
+    }
+
+    #drilling-tecnology .banner .banner-card {
+        margin-inline: 300px;
+        top: 31rem;
+    }
+
+    #drilling-tecnology .banner-img img {
+        width: 90%;
+    }
+
+    #drilling-tecnology .patent-pending .pending-content p {
+        padding-inline: 200px;
+        padding-top: 40px;
+    }
+
+    #drilling-tecnology .deeppower-cheaper .cheaper-img-card {
+        padding: 12px 25px 19px 29px;
+        bottom: -116rem;
+        left: 30rem;
+    }
+
+    #drilling-tecnology .deeppower-cheaper .cheaper-img-card h1 {
+        font-size: 17px;
+    }
+
+    #drilling-tecnology .deeppower-cheaper .cheaper-content p {
+        padding-left: 60px;
+    }
+
+    #drilling-tecnology .clean-energy .clean-energy-content h1 {
+        font-size: 110px;
+    }
+
+    #drilling-tecnology .clean-energy .clean-energy-content p {
+        font-size: 29px;
+    }
+
+    #drilling-tecnology .clean-energy .clean-energy-content {
+        bottom: 159px;
+    }
+
+    #drilling-tecnology .deep-miles-img img {
+        width: 80%;
+    }
+
+    #drilling-tecnology .footer .footer-card .footer-body button {
+        margin-bottom: 10px;
+    }
+}
+
+
+@media(max-width:1200px) {
+    #drilling-tecnology .banner .banner-heading h1 {
+        font-size: 16px;
+    }
+
+    #drilling-tecnology .banner .banner-text h1 {
+        font-size: 30px;
+    }
+
+    #drilling-tecnology .banner .banner-card {
+        margin-inline: 270px;
+    }
+
+    #drilling-tecnology .banner .banner-card .card-body {
+        padding: 50px 15px 28px 15px;
+    }
+
+    #drilling-tecnology .university-of-oklahoma .unversity-cards .unversity-card .card-heading h1 {
+        font-size: 45px;
+    }
+
+    #drilling-tecnology .university-of-oklahoma .unversity-cards .unversity-card .card-text p {
+        font-size: 15px;
+    }
+
+    #drilling-tecnology .university-of-oklahoma .university-content p {
+        padding-right: 20px;
+    }
+
+    #drilling-tecnology .deeppower-cheaper .cheaper-img-card {
+        padding: 16px 25px 19px 29px;
+        bottom: -108rem;
+        left: 26rem;
+    }
+
+    #drilling-tecnology .deeppower-cheaper .cheaper-content p {
+        padding-left: 10px;
+    }
+
+    #drilling-tecnology .deep-miles .deep-miles-heading .dmh-content p {
+        padding-left: 200px;
+    }
+
+    #drilling-tecnology .clean-energy .clean-energy-content {
+        bottom: 257px;
+        left: 300px;
+    }
+
+    #drilling-tecnology .clean-energy .clean-energy-content h1 {
+        font-size: 79px;
+    }
+
+    #drilling-tecnology .footer .footer-card {
+        margin-inline: 200px;
+    }
+}
